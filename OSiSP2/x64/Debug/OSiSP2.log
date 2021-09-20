@@ -1,0 +1,5 @@
+﻿  OSiSP2.cpp
+D:\УНИВЕР\Ваня_Лабс\OSiSP2\OSiSP2\OSiSP2.cpp(147,30): warning C4244: =: преобразование "LONG" в "WORD", возможна потеря данных
+D:\УНИВЕР\Ваня_Лабс\OSiSP2\OSiSP2\OSiSP2.cpp(244,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\УНИВЕР\Ваня_Лабс\OSiSP2\OSiSP2\OSiSP2.cpp(328,1): warning C4312: приведение типов: преобразование из "UINT" в "HMENU" большего размера
+  OSiSP2.vcxproj -> D:\УНИВЕР\Ваня_Лабс\OSiSP2\x64\Debug\OSiSP2.exe

@@ -1,0 +1,3 @@
+﻿  OSiSP2.cpp
+D:\УНИВЕР\Ваня_Лабс\OSiSP2\OSiSP2\OSiSP2.cpp(161,30): warning C4244: =: преобразование "LONG" в "WORD", возможна потеря данных
+  OSiSP2.vcxproj -> D:\УНИВЕР\Ваня_Лабс\OSiSP2\Debug\OSiSP2.exe
